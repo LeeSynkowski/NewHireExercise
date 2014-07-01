@@ -121,6 +121,8 @@ namespace NewHireExercise
             }
         }
 
+        //Assign rankings to the racers. ASSUMES NO TIES.
+        //Racers with equal times will be given sequential placings.
         private void assignRankings(List<RacerData> racerDataList)
         {
             int rank = 1;
