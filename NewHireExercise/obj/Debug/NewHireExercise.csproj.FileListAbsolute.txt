@@ -1,0 +1,9 @@
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\bin\Debug\NewHireExercise.exe.config
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\bin\Debug\NewHireExercise.exe
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\bin\Debug\NewHireExercise.pdb
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\obj\Debug\NewHireExercise.csprojResolveAssemblyReference.cache
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\obj\Debug\NewHireExercise.Form1.resources
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\obj\Debug\NewHireExercise.Properties.Resources.resources
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\obj\Debug\NewHireExercise.csproj.GenerateResource.Cache
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\obj\Debug\NewHireExercise.exe
+c:\users\lee\documents\visual studio 2013\Projects\NewHireExercise\NewHireExercise\obj\Debug\NewHireExercise.pdb

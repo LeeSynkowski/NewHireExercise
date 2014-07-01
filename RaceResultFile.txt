@@ -1,0 +1,11 @@
+Name    Time    Age
+--------------------
+Steve   12      33
+Tim     34      28
+Mark    22      37
+Tom     21      30
+Cliff   13      33
+Vini    17      28
+Matt    10      28
+Ben      9      29
+Brandon 15      14
